@@ -1,0 +1,12 @@
+{
+  "window_width": 600,
+  "window_height": 700,
+  "opacity": 64,
+  "always_on_top": false,
+  "todo_item_height": 79,
+  "todo_font_size": 30,
+  "always_on_bottom": true,
+  "text_margin": 1,
+  "floating_window": true,
+  "position_shortcut": "Shift+A"
+}
