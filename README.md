@@ -148,4 +148,7 @@ tipspoint/
 │       └── todo_controller.py # 控制器
 └── resources/              # 资源文件
     └── styles/             # 样式文件
-``` 
+```
+
+## 鸣谢
+CURSOR, ChatGPT, Deepseek.
